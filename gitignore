@@ -1,0 +1,6 @@
+.env
+giveaways.json
+__pycache__/
+*.pyc
+venv/
+.venv/
